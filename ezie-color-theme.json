@@ -7,7 +7,7 @@
   "publisher" : "orekidyas",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Esreia/Theme.git"
+    "url" : "https://github.com/Esreia/Theme/blob/25b5fd3b3d6ee2924d9bc2fce12e623cacc9f120/ezie-color-theme.json"
   },
   "type": "dark",
   "semanticHighlighting": true,
